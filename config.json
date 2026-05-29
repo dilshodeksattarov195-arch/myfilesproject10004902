@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatordncrypt",
+        "uuid": 1102950,
+        "checksum": "jcoqpk"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
